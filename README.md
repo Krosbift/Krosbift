@@ -2,9 +2,9 @@
 
 # 👋 Hey there, I'm **Krosbift**
 
-### 🚀 Backend Developer | Building Robust & Scalable APIs
+### 🚀 Backend Developer & Tech Lead | Building Robust & Scalable APIs
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Backend+Developer;API+Architect;Database+Enthusiast;Cloud+Explorer;Always+Learning+%26+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Backend+Developer;API+Architect;Tech+Lead+%26+Mentor;Cloud+Explorer;Always+Learning+%26+Growing" alt="Typing SVG" />
 
 <br/>
 
@@ -20,9 +20,10 @@
 
 ```typescript
 const krosbift: BackendDeveloper = {
-    role: "Backend Developer",
+    role: "Backend Developer & Tech Lead",
     passion: "Building scalable and efficient server-side solutions",
-    focus: ["Clean Architecture", "RESTful APIs", "Database Design", "Cloud Services"],
+    focus: ["Hexagonal Architecture", "RESTful APIs", "Database Design", "Cloud Services"],
+    leadership: "Guiding teams to ship quality software 🚀",
     motto: "Code that scales, APIs that shine ✨"
 };
 ```
