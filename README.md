@@ -40,11 +40,11 @@ const santiago = {
 <table>
   <tr>
     <th>Languages</th>
-    <th>Frameworks &amp; APIs</th>
+    <th>Frameworks</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts,go,ruby,nodejs&theme=dark" alt="TypeScript, Go, Ruby, Node.js" /></td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,rails,graphql&theme=dark" alt="NestJS, Ruby on Rails, GraphQL" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts,go,rust&theme=dark" alt="TypeScript, Go, Rust" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs&theme=dark" alt="NestJS" /></td>
   </tr>
   <tr>
     <th>SQL databases</th>
@@ -52,7 +52,7 @@ const santiago = {
   </tr>
   <tr>
     <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,sqlite,oracle,sqlserver&theme=dark" alt="PostgreSQL, MySQL, SQLite, Oracle, SQL Server" /></td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,elasticsearch,opensearch&theme=dark" alt="MongoDB, Redis, Elasticsearch, OpenSearch" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,dynamodb,elasticsearch&theme=dark" alt="MongoDB, Redis, DynamoDB, Elasticsearch" /> <img src="./profile/icon-opensearch.svg" width="48" alt="OpenSearch" /></td>
   </tr>
   <tr>
     <th>Cloud</th>
@@ -60,7 +60,7 @@ const santiago = {
   </tr>
   <tr>
     <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure&theme=dark" alt="AWS, Azure" /></td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,azuredevops,postman,vscode&theme=dark" alt="Git, GitHub, Azure DevOps, Postman, VS Code" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,azuredevops,postman&theme=dark" alt="Git, GitHub, Azure DevOps, Postman" /> <img src="./profile/icon-linear.svg" width="48" alt="Linear" /></td>
   </tr>
 </table>
 
