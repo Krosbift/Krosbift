@@ -33,25 +33,6 @@ I care about clear domain models, decisions written down, and systems that can e
 | **Backend / DevOps Developer** · freelance, VPS & CI/CD | O.L.I Consulting | Apr 2025 – Apr 2026 |
 | **Backend Developer** · led Java → NestJS migration | Universidad Tecnológica de Pereira | Apr 2023 – Dec 2025 |
 
-## 🎓 University projects
-
-Systems and Computer Engineering at **Universidad Tecnológica de Pereira**. All my coursework lives in one repository, from my first Racket programs to distributed systems:
-
-<div align="center">
-
-<a href="https://github.com/Krosbift/UTP"><img src="https://raw.githubusercontent.com/Krosbift/UTP/main/.github/assets/banner.svg" alt="UTP — university projects" width="90%"/></a>
-
-</div>
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**GOX Compiler**](https://github.com/Krosbift/UTP/tree/main/IS753-Compiladores/GOX-Compiler) | Full compiler: lexer, parser, type checker, IR and stack machine | Python |
-| [**RISC‑V Computer**](https://github.com/Krosbift/UTP/tree/main/IS614-ArquitecturaDeComputadores/ProyectoFinal-Computador) | Pipelined RISC‑V CPU with VGA output and PS/2 keyboard on FPGA | SystemVerilog |
-| [**gRPC Bank**](https://github.com/Krosbift/UTP/tree/main/IS983-SistemasDistribuidos/grpc-bank) | Distributed bank with real‑time server streaming over gRPC‑Web | Spring Boot · Angular |
-| [**Alkosto**](https://github.com/Krosbift/UTP/tree/main/IS714-IngenieriaDeSoftware-I/alkosto) | Team e‑commerce with live search, cart, OTP auth and load tests | NestJS · Angular · PostgreSQL |
-
-<p align="center"><a href="https://github.com/Krosbift/UTP"><b>Explore all 12 courses →</b></a> · <a href="https://github.com/Krosbift/UTP/wiki">Wiki</a></p>
-
 ## 🛠️ Tech stack
 
 <div align="center">
