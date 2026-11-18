@@ -70,8 +70,7 @@ const santiago = {
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="165" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com?user=Krosbift&theme=dark&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="165" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Krosbift&theme=dark&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub streak" />
 
 <br/><br/>
 
