@@ -2,9 +2,9 @@
 
 # Hi, I'm Santiago Torifa 👋
 
-### Tech Lead & Backend Engineer @ [Alegra](https://www.alegra.com)
+### Backend Developer @ [Alegra](https://www.alegra.com) · Microservices on AWS
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=520&lines=Tech+Lead+%26+Backend+Engineer;Hexagonal+Architecture+%7C+Clean+Code;Scalable+APIs+%26+Distributed+Systems;Mentoring+teams+to+ship+quality+software" alt="Tech Lead & Backend Engineer · Hexagonal Architecture · Scalable APIs · Mentoring teams" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=520&lines=Backend+Developer+%40+Alegra;Hexagonal+Architecture+%2B+DDD;Event-driven+microservices+on+AWS;Legacy+migrations+without+downtime" alt="Backend Developer @ Alegra · Hexagonal Architecture + DDD · Event-driven microservices on AWS · Legacy migrations without downtime" />
 
 <a href="https://www.linkedin.com/in/torifa-manso"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://img.shields.io/badge/Location-Colombia-6C63FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Colombia"/>
@@ -15,23 +15,23 @@
 
 ## 🧭 About me
 
-I lead backend teams and design the services behind them. My day-to-day is turning business problems into
-maintainable systems: clear domain boundaries, well-designed APIs and data models that hold up as the product grows.
+Backend developer focused on turning complex business rules into maintainable, well-bounded services.
+I care about clear domain models, decisions written down, and systems that can evolve without disrupting the people who depend on them.
 
-- 🏢 **Tech Lead** at **Alegra**, building cloud software for businesses across Latin America.
-- 🧱 Advocate of **Hexagonal Architecture**, DDD-inspired modeling and testable code.
-- 🔌 Designing **REST & GraphQL APIs**, integrations and event-driven services.
-- 🗄️ Experienced with **relational and NoSQL databases**, search engines and caching strategies.
-- 🤝 Mentoring developers, reviewing code and helping teams ship with confidence.
+- 🏢 At **Alegra**, building cloud accounting and **electronic invoicing** services for SMBs across Latin America, governed by country-specific tax rules.
+- ☁️ Serverless **microservices on AWS** with TypeScript and **AWS CDK**: Lambda, API Gateway, DynamoDB, SQS and SNS.
+- 🧱 **Hexagonal Architecture**, **DDD** and **event-driven** design, with technical decisions documented through ADRs.
+- 🔄 Migrating **legacy systems to microservices** through coexistence strategies, feature flags and progressive rollouts.
+- 🧭 Technical leadership: led a legacy Java → NestJS backend migration and served as Scrum Master.
 
-```typescript
-const santiago = {
-  role: "Tech Lead & Backend Engineer",
-  architecture: ["Hexagonal", "Clean Architecture", "Event-driven"],
-  currentlyFocusedOn: ["Scalable APIs", "Cloud services", "Team leadership"],
-  motto: "Code that scales, APIs that shine.",
-};
-```
+## 💼 Experience
+
+| Role | Company | Period |
+| --- | --- | --- |
+| **Backend Developer** | Alegra | Oct 2026 – present |
+| **Semi-Senior Backend Developer** · financial sector, multi-cloud (AWS & Azure) | LinkTIC | Dec 2025 – Oct 2026 |
+| **Backend / DevOps Developer** · freelance, VPS & CI/CD | O.L.I Consulting | Apr 2025 – Apr 2026 |
+| **Backend Developer** · led Java → NestJS migration | Universidad Tecnológica de Pereira | Apr 2023 – Dec 2025 |
 
 ## 🛠️ Tech stack
 
@@ -55,11 +55,11 @@ const santiago = {
     <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,dynamodb,elasticsearch&theme=dark" alt="MongoDB, Redis, DynamoDB, Elasticsearch" /> <img src="./profile/icon-opensearch.svg" width="48" alt="OpenSearch" /></td>
   </tr>
   <tr>
-    <th>Cloud</th>
+    <th>Cloud &amp; containers</th>
     <th>Tools</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure&theme=dark" alt="AWS, Azure" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,docker,kubernetes&theme=dark" alt="AWS, Azure, Docker, Kubernetes" /></td>
     <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,azuredevops,postman&theme=dark" alt="Git, GitHub, Azure DevOps, Postman" /> <img src="./profile/icon-linear.svg" width="48" alt="Linear" /></td>
   </tr>
 </table>
