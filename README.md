@@ -1,124 +1,96 @@
 <div align="center">
 
-# 👋 Hey there, I'm **Krosbift**
+# Hi, I'm Santiago Torifa 👋
 
-### 🚀 Backend Developer & Tech Lead | Building Robust & Scalable APIs
+### Tech Lead & Backend Engineer @ [Alegra](https://www.alegra.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Backend+Developer;API+Architect;Tech+Lead+%26+Mentor;Cloud+Explorer;Always+Learning+%26+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=520&lines=Tech+Lead+%26+Backend+Engineer;Hexagonal+Architecture+%7C+Clean+Code;Scalable+APIs+%26+Distributed+Systems;Mentoring+teams+to+ship+quality+software" alt="Tech Lead & Backend Engineer · Hexagonal Architecture · Scalable APIs · Mentoring teams" />
 
-<br/>
-
-<a href="YOUR_LINKEDIN_URL_HERE">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-</a>
+<a href="https://www.linkedin.com/in/torifa-manso"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/Location-Colombia-6C63FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Colombia"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## 💫 About Me
+## 🧭 About me
+
+I lead backend teams and design the services behind them. My day-to-day is turning business problems into
+maintainable systems: clear domain boundaries, well-designed APIs and data models that hold up as the product grows.
+
+- 🏢 **Tech Lead** at **Alegra**, building cloud software for businesses across Latin America.
+- 🧱 Advocate of **Hexagonal Architecture**, DDD-inspired modeling and testable code.
+- 🔌 Designing **REST & GraphQL APIs**, integrations and event-driven services.
+- 🗄️ Experienced with **relational and NoSQL databases**, search engines and caching strategies.
+- 🤝 Mentoring developers, reviewing code and helping teams ship with confidence.
 
 ```typescript
-const krosbift: BackendDeveloper = {
-    role: "Backend Developer & Tech Lead",
-    passion: "Building scalable and efficient server-side solutions",
-    focus: ["Hexagonal Architecture", "RESTful APIs", "Database Design", "Cloud Services"],
-    leadership: "Guiding teams to ship quality software 🚀",
-    motto: "Code that scales, APIs that shine ✨"
+const santiago = {
+  role: "Tech Lead & Backend Engineer",
+  architecture: ["Hexagonal", "Clean Architecture", "Event-driven"],
+  currentlyFocusedOn: ["Scalable APIs", "Cloud services", "Team leadership"],
+  motto: "Code that scales, APIs that shine.",
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
 <div align="center">
 
 <table>
-<tr>
-<td align="center" width="50%">
-
-### 💻 Languages
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,go,ruby&theme=dark" alt="TypeScript, Go, Ruby" />
-
-</td>
-<td align="center" width="50%">
-
-### 🔧 Frameworks
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,rails&theme=dark" alt="NestJS, Ruby on Rails" />
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🗄️ SQL Databases
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,sqlite&theme=dark" alt="PostgreSQL, MySQL, SQLite" />
-<br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle,sqlserver&theme=dark" alt="Oracle, SQL Server" />
-
-</td>
-<td align="center" width="50%">
-
-### 🍃 NoSQL & Search
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis&theme=dark" alt="MongoDB, Redis" />
-<br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=elasticsearch,opensearch&theme=dark" alt="Elasticsearch, OpenSearch" />
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### ☁️ Cloud
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure&theme=dark" alt="AWS, Azure" />
-
-</td>
-<td align="center" width="50%">
-
-### 🧰 Tools
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,postman,azuredevops&theme=dark" alt="VS Code, Postman, Azure DevOps" />
-<br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github&theme=dark" alt="Git, GitHub" />
-
-</td>
-</tr>
+  <tr>
+    <th>Languages</th>
+    <th>Frameworks &amp; APIs</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts,go,ruby,nodejs&theme=dark" alt="TypeScript, Go, Ruby, Node.js" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,rails,graphql&theme=dark" alt="NestJS, Ruby on Rails, GraphQL" /></td>
+  </tr>
+  <tr>
+    <th>SQL databases</th>
+    <th>NoSQL &amp; search</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,sqlite,oracle,sqlserver&theme=dark" alt="PostgreSQL, MySQL, SQLite, Oracle, SQL Server" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,elasticsearch,opensearch&theme=dark" alt="MongoDB, Redis, Elasticsearch, OpenSearch" /></td>
+  </tr>
+  <tr>
+    <th>Cloud</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure&theme=dark" alt="AWS, Azure" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,azuredevops,postman,vscode&theme=dark" alt="Git, GitHub, Azure DevOps, Postman, VS Code" /></td>
+  </tr>
 </table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 📊 GitHub Stats
+## 📊 GitHub activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krosbift&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krosbift&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" />
+<img src="./profile/stats.svg" height="165" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=Krosbift&theme=dark&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="165" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Krosbift&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake-light.svg" />
+  <img src="./profile/snake-dark.svg" alt="Contribution snake" />
+</picture>
+
+<sub>Most of my work lives in private company repositories, so public activity shows only part of it.</sub>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
 <div align="center">
 
-### 💬 Let's Connect!
+*"Great backends are the foundation of great applications."*
 
-*"Great backends are the foundation of great applications"*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Krosbift&color=6C63FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Krosbift&color=6C63FF&style=flat-square&label=Profile+views" alt="Profile views" />
 
 </div>
